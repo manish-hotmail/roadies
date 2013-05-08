@@ -1,0 +1,34 @@
+@font-face
+{
+       font-family: 'Segoe-light';
+	   font-style: normal;
+	   font-weight: normal;
+	   src: url("http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.eot?#iefix") format("embedded-opentype"), url("http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.woff") format("woff"), url("http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.ttf") format("truetype"), url("http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.svg#web") format("svg");
+	   src: local('Segoe-light'), url("http://i.s-microsoft.com/fonts/Segoe-UI/West-European/Normal/latest.ttf") format("truetype");
+}
+
+@font-face
+{
+       font-family: 'Segoe-bold';
+	   src:  URL('Segoebd.eot') format('embedded-opentype');
+       src: URL('Segoebd.otf'), URL('Segoebd.woff'), URL('Segoebd.ttf');
+}
+
+@font-face
+{
+       font-family: 'Segoe-regular';
+	   src: URL('SegoeRg.eot');
+       src: URL('SegoeRg.otf'), URL('SegoeRg.woff'), URL('SegoeRg.ttf');
+}
+
+.myfont{
+       font-family: Segoe-light;
+}
+
+
+body{
+	outline: none;
+}
+img{
+	border: 0px solid;
+}

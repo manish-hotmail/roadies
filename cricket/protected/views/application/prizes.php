@@ -1,0 +1,1 @@
+<img style="margin-bottom: 30px;" src="<?php echo Yii::app()->request->baseUrl; ?>/images/prizes.jpg">

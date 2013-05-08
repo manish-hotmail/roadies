@@ -1,0 +1,698 @@
+body
+{
+	margin: 0;
+	padding: 0 !important;
+	color: #555;
+	font: normal 10pt Arial !important;
+	background: #fff;
+	/* background-image: url('../images/bg.jpg'); */ 
+}
+
+#page
+{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	background: white;
+}
+
+#invite_ecom {
+	cursor: pointer;
+}
+
+#header
+{
+	margin: 0;
+	padding: 0;
+}
+
+#content
+{
+    padding: 0px 10px;
+}
+
+#sidebar
+{
+	padding: 20px 20px 20px 0;
+}
+
+th, td, caption {
+	padding: 2px 5px;	
+	vertical-align: top;
+}
+
+#main_page_table > tr{
+	border: 1px solid #888;	
+}
+
+.current_event_meta_data{
+	color: #9d0000;
+	font-size: 11px;	
+	border-top: 1px solid #eee;	
+	margin: 2px;
+	padding-top: 4px;
+}
+
+#logo
+{
+	padding: 10px 20px;
+	font-size: 200%;
+}
+
+#mainmenu
+{
+	background-color: #fff;
+	border-bottom: 2px solid #960000;
+}
+
+#mainmenu ul
+{
+	padding:5px 0px;
+	margin:0px;
+}
+
+#mainmenu ul li
+{
+	display: inline;
+	padding: 0px 0px;
+}
+
+#mainmenu ul li a
+{
+	color: #212121;
+	font-size: 14px;
+	text-decoration: none;
+	padding: 6px 3px;
+}
+
+#mainmenu ul li a:hover, #mainmenu ul li.active a
+{
+	text-decoration:none;
+	background-color: #620000;
+	background-image: -o-linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	background-image: -moz-linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	background-image: -webkit-linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	background-image: -ms-linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	background-image: linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	color: #fff !important;
+}
+
+#airtel_advantage:hover {
+	background: none !important;	
+}
+
+#footer
+{
+	clear: both;
+	background-color: #fff;
+	border-top: 1px solid #bbb;
+	margin-top: -20px;
+	font-size: 12px;
+	color: #1e1e1e;
+}
+#user_profile_name td{
+	border: none;
+}
+
+.question_end_info{
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 40px;
+}
+
+#main_user_info {
+	border-top: 4px solid #945151;
+	border-bottom: 4px solid #945151;
+	background-color: #620000;
+	background-image: -o-linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	background-image: -moz-linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	background-image: -webkit-linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	background-image: -ms-linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	background-image: linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	color: #fff;
+}
+
+#main_user_info p{
+	color: #f4b800;
+	margin: 0px;
+	padding-top: 10px;
+	font-size: 12px;
+}
+
+#main_user_info span{
+	color: #ffffff;
+	font-size: 12px;
+}
+
+#main_user_info table {
+	margin-top: 3px;
+}
+
+#main_user_info td {
+	border-right: 2px solid #000;
+}
+
+#footer ul
+{
+	padding: 0px;
+	margin:0px;
+}
+
+#footer ul li
+{
+	display: inline;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+#footer ul li a
+{
+	color: #000000;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.primary_td{
+	width: 65%;
+}
+
+.home_headers{
+	border-left: 5px solid #565656;
+	padding: 4px 0px;
+}
+
+.home_headers .header_text {
+	margin: 0px 2px;
+	background-color: #9e0000;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 700;
+	padding: 5px;
+}
+
+.home_headers span {
+	font-size: 18px;
+	color: #1e1e1e;
+}
+
+.total_pot {
+	margin: 3px;
+	background-image: -o-linear-gradient(top, #a5a5a5, #ffffff 25%) !important;
+	background-image: -moz-linear-gradient(top, #a5a5a5, #ffffff 25%) !important;
+	background-image: -webkit-linear-gradient(top, #a5a5a5, #ffffff 25%) !important;
+	background-image: -ms-linear-gradient(top, #a5a5a5, #ffffff 25%) !important;
+	background-image: linear-gradient(top, #a5a5a5, #ffffff 25%) !important;
+	border: 1px solid #eee;
+	padding: 5px 10px;
+	text-align: center;
+	width: 140px;
+	margin-right: 0px;
+}
+
+.total_pot h4, .total_pot h3{
+	margin: 0px;	
+}
+
+
+.total_pot h4{
+	font-size: 16px;
+	color: #1e1e1e;	
+}
+
+.total_pot h3{
+	font-size: 22px;
+	color: #1e1e1e;	
+}
+
+.td_bg tbody, .td_bg tr,.td_bg td {
+	border: 1px solid #d9d9d9;
+	font-size: 12px;	
+	color: #1e1e1e;
+}
+
+.td_bg {	
+	margin-bottom: 5px;
+}
+
+#completed_td{
+	margin-bottom: 40px;
+}
+
+#my_trns_td{
+	margin-bottom: 40px;	
+}
+
+.leaderboard_me{
+	background-image: -o-linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	background-image: -moz-linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	background-image: -webkit-linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	background-image: -ms-linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	background-image: linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+}
+
+.leaderboard_me span{
+	color: #f4b800;	
+}
+
+#extra_div_lb {
+	margin-bottom: 20px;
+}
+
+.tr_bg {
+	background-color: #d9d9d9;	
+	border: 1px solid #d9d9d9;
+	font-weight: bold;	
+}
+
+.tr_bg h5{
+	font-size: 12px;
+	font-family: Arial !important;
+	font-weight: bold;
+}
+
+.question_bg {
+	border-left: 5px solid #5b5b5b;
+	color: #fff;
+	background-color: #424242;
+	padding: 8px;
+	font-size: 16px !important;
+	font-weight: 700;
+}
+
+
+.bet_alive_info{
+	color: #fff;
+	background-color: #9E0000;
+	float: right;
+	padding: 0px 10px;
+	font-size: 12px;
+	padding: 7px 8px;
+	margin-top: -7px;
+	margin-right: -7px;
+}
+
+.correct_answer{
+	background-color: rgb(248, 227, 143);		
+}
+
+.won_info {
+	width: 15%;
+	text-align: center; 
+	color: red; 
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.btn-danger{
+	border-radius: 10px;
+	font-size: 12px !important;
+	font-family: Arial !important;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;	
+	background-image: -o-linear-gradient(top, #e91a23, #730202 96%) !important;
+	background-image: -moz-linear-gradient(top, #e91a23, #730202 96%) !important;
+	background-image: -webkit-linear-gradient(top, #e91a23, #730202 96%) !important;
+	background-image: -ms-linear-gradient(top, #e91a23, #730202 96%) !important;
+	background-image: linear-gradient(top, #e91a23, #730202 96%) !important;
+}
+
+.view_event_btn{
+	background-color: #404040;
+	background-image: -o-linear-gradient(top, #404040, #6f6f6f 96%) !important;
+	background-image: -moz-linear-gradient(top, #404040, #6f6f6f 96%) !important;
+	background-image: -webkit-linear-gradient(top, #404040, #6f6f6f 96%) !important;
+	background-image: -ms-linear-gradient(top, #404040, #6f6f6f 96%) !important;
+	background-image: linear-gradient(top, #404040, #6f6f6f 96%) !important;
+	color: #fff;
+	font-family: Arial !important;
+	font-size: 12px;
+}
+
+#bet_popup, #tinfo{
+	position: absolute;
+	width: 48%;	
+	top: 30%;	
+	left: 30%;
+	margin-top: 30%;
+	margin: 0 auto;
+	border-radius: 0px;
+	border: 5px solid rgba(255,255,255,0.14);
+}
+
+#congo_popup{
+	width: 40%;
+	left: 30%;
+	top: 20%;	
+	border-radius: 0px;	
+	border: 5px solid rgba(255,255,255,0.14);
+}
+
+#congo_layout_popup {
+	width: 40%;
+	left: 30%;
+	top: 20%;	
+	border-radius: 0px;	
+	border: 5px solid rgba(255,255,255,0.14);
+}
+
+#bet_model_footer{
+	display: none;
+}
+
+#bet_model_footer{	
+	text-align: left;
+}
+
+.current_event_info tbody{
+	box-shadow: 2px 2px 8px #ddd;
+	border: 1px solid #ddd;
+	display: block;
+	width: 94%;	
+}
+
+#current_event_entity_table tbody{
+	
+}
+
+#main_page_table, #main_page_table tbody{
+	/* margin: 9px 0px 9px 0px; */	
+}
+
+.view_closed_event{
+	vertical-align: middle;	
+}
+
+#upcoming_event_entity_table tr, #closed_event_entry_table tr{
+	border-top: 1px dotted #888;
+	border-bottom: 1px dotted #888;	
+}
+
+#closed_event_entry_table td {
+	width: 80%;
+}
+
+#upcoming_event_entity_table td, #upcoming_event_entity_table td {
+	padding: 15px;
+}
+
+#upcoming_event_entity_table h4, #upcoming_event_entity_table p{
+	margin: 0px;
+}
+
+#upcoming_event_entity_table h4{
+	font-size: 17px;
+	color: #1e1e1e;	
+}
+
+#upcoming_event_entity_table p{
+	font-size: 12px;
+	color: #5b5b5b;	
+}
+
+#closed_event_entry_table a {
+	color: #1e1e1e;
+	font-size: 17px;
+}
+
+#closed_event_entry_table p{
+	margin: 0px;
+	color: #9d0000;
+	padding: 2px;
+	font-size: 12px;
+}
+
+#lb_table p{
+	margin: 0px;
+}
+
+.primary_td, .sidebar_td{
+	border: 1px solid #c4c4c4;
+	padding: 10px;
+}
+
+.primary_td table {
+	margin: 10px;
+	margin-left: 0px;
+}
+
+.primary_td{
+	border-left: none;
+}
+
+.sidebar_td{
+	border-right: none;
+}
+
+
+#roadies_intro {
+	height: 70px;
+	padding: 0px;
+	margin-left: 18px;
+	color: #1e1e1e;
+	margin-top: 16px;
+}
+
+#roadies_intro h4{
+	margin-bottom: 5px;
+	font-size: 16px;	
+}
+
+#roadies_intro p{
+	font-size: 14px;	
+}
+
+.main_page_headers{
+	border-left: 6px solid #565656;
+	padding: 2px 0px;
+	margin-top: 11px;
+	font-size: 16px !important;
+	font-weight: 700;
+}
+
+.main_page_headers span{
+	background-color: #a5a5a5;
+	color: #fff;
+	margin-left: 1px;
+	padding: 2px 10px;
+}
+
+div.flash-error, div.flash-notice, div.flash-success
+{
+	padding:.8em;
+	margin-bottom:1em;
+	border:2px solid #ddd;
+}
+
+div.flash-error
+{
+	background:#FBE3E4;
+	color:#8a1f11;
+	border-color:#FBC2C4;
+}
+
+div.flash-notice
+{
+	background:#FFF6BF;
+	color:#514721;
+	border-color:#FFD324;
+}
+
+div.flash-success
+{
+	background:#E6EFC2;
+	color:#264409;
+	border-color:#C6D880;
+}
+
+div.flash-error a
+{
+	color:#8a1f11;
+}
+
+div.flash-notice a
+{
+	color:#514721;
+}
+
+div.flash-success a
+{
+	color:#264409;
+}
+
+div.form .rememberMe label
+{
+	display: inline;
+}
+
+div.view
+{
+	padding: 10px;
+	margin: 10px 0;
+	border: 1px solid #C9E0ED;
+}
+
+div.breadcrumbs
+{
+	font-size: 13px;
+	/*padding: 5px;*/
+	margin: 10px 8px 0px;
+}
+
+div.breadcrumbs a
+{
+	color: #1e1e1e;
+	text-decoration: none;
+}
+
+div.breadcrumbs span
+{	
+	color: #7f0000;
+}
+
+div.search-form
+{
+	padding: 10px;
+	margin: 10px 0;
+	background: #eee;
+}
+
+.portlet
+{
+
+}
+
+.portlet-decoration
+{
+	padding: 3px 8px;
+	background: #B7D6E7;
+	border-left: 5px solid #6FACCF;
+}
+
+.portlet-title
+{
+	font-size: 12px;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	color: #298dcd;
+}
+
+.portlet-content
+{
+	font-size:0.9em;
+	margin: 0 0 15px 0;
+	padding: 5px 8px;
+	background:#EFFDFF;
+}
+
+.portlet-content ul
+{
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+}
+
+.portlet-content li
+{
+	padding: 2px 0 4px 0px;
+}
+
+.operations
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.operations li
+{
+	padding-bottom: 2px;
+}
+
+.operations li a
+{
+	font: bold 12px Arial;
+	color: #0066A4;
+	display: block;
+	padding: 2px 0 2px 8px;
+	line-height: 15px;
+	text-decoration: none;
+}
+
+.operations li a:visited
+{
+	color: #0066A4;
+}
+
+.operations li a:hover
+{
+	background: #80CFFF;
+}
+
+/* Popup */
+
+.close{
+	border: 1px solid #1e1e1e !important;
+	color: #1e1e1e !important;
+}
+
+#popup_question {
+	font-size: 21px;
+	font-weight: bold;
+	color: #9e0000;
+}
+
+#popup_selected_option{
+	color: #960000;
+	font-size: 16px;
+	text-decoration: underline;
+}
+
+#bet_close_btn {
+	margin-right: 10%;
+}
+
+#balance_meta_data{
+	font-size: 12px;
+	color: #1e1e1e;
+	margin-left: 10%;
+	margin-bottom: 10px;
+}
+
+#balance_meta_data p{
+	margin: 0px;
+}
+
+#max_allowed_meta_data{
+	font-size: 11px;
+	color: #575757;
+}
+
+#congo_text{
+	font-size: 21px;
+	font-weight: bold;
+	color: #9e0000;
+}
+
+#airtel_advantage{	
+	color: red !important;
+}
+
+/* Footer */
+#share_with_friends {
+	color: #f4b800; 
+	padding: 5px;
+	background-color: #620000;
+	background-image: -o-linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	background-image: -moz-linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	background-image: -webkit-linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	background-image: -ms-linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+	background-image: linear-gradient(top, rgb(98,0,0), rgb(148,0,0) 96%);
+}
+
+#like_airtel_india{
+	background-color: red; 
+	color: #fff; 
+	padding: 5px; width: 35%;
+}

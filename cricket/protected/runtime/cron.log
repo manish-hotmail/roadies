@@ -1,0 +1,1469 @@
+2013/04/04 06:14:36 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:20:35 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:20:40 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:23:31 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:24:14 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:26:40 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:26:44 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:30:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:31:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:32:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:33:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:34:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:35:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:36:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:37:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:38:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:39:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:40:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:41:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:42:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:43:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:44:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:45:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:46:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:47:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:48:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:49:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:50:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:51:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:52:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:53:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:54:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:55:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:56:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:57:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:58:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 06:59:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:00:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:01:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:02:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:03:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:04:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:05:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:06:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:07:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:08:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:09:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:10:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:11:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:12:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:13:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:14:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:15:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:16:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:17:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:18:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:19:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:20:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:21:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:22:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:23:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:24:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:25:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:26:02 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:27:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:28:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:29:01 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 10:29:03 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:55)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (55)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (12)
+in /var/www/cricket/cron.php (13)
+2013/04/04 10:34:16 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/DistributeMoneyCommand.php:56)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (56)
+in /var/www/cricket/protected/commands/DistributeMoneyCommand.php (13)
+in /var/www/cricket/cron.php (13)
+2013/04/04 07:00:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Options))
+#7 /var/www/cricket/protected/models/Options.php(23): CActiveRecord::model('Options')
+#8 /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php(7): Options::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateOptionsMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/04 07:00:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Questions))
+#7 /var/www/cricket/protected/models/Questions.php(28): CActiveRecord::model('Questions')
+#8 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(7): Questions::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateQuestionMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/04 19:16:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#7 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#8 /var/www/cricket/protected/commands/UpdateEventsMetaDataCommand.php(7): Events::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEventsMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/05 10:20:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#7 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#8 /var/www/cricket/protected/commands/UpdateEntitiesStatusCommand.php(7): Events::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEntitiesStatusCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/07 14:11:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(BlockingData))
+#7 /var/www/cricket/protected/models/BlockingData.php(20): CActiveRecord::model('BlockingData')
+#8 /var/www/cricket/protected/commands/BlockUserCommand.php(10): BlockingData::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): BlockUserCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/09 05:50:03 [error] [php] Trying to get property of non-object (/var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php:15)
+Stack trace:
+#0 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#2 /var/www/cricket/cron.php(13): CConsoleApplication->run()
+
+in /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php (15)
+in /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php (9)
+in /var/www/cricket/cron.php (13)
+2013/04/12 12:34:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#7 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#8 /var/www/cricket/protected/commands/UpdateEventsMetaDataCommand.php(7): Events::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEventsMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/13 16:24:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Questions))
+#7 /var/www/cricket/protected/models/Questions.php(28): CActiveRecord::model('Questions')
+#8 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(7): Questions::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateQuestionMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/15 06:42:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Options))
+#7 /var/www/cricket/protected/models/Options.php(23): CActiveRecord::model('Options')
+#8 /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php(7): Options::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateOptionsMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/16 06:41:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#7 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#8 /var/www/cricket/protected/commands/UpdateEventsMetaDataCommand.php(7): Events::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEventsMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/16 18:45:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Options))
+#7 /var/www/cricket/protected/models/Options.php(23): CActiveRecord::model('Options')
+#8 /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php(7): Options::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateOptionsMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/16 18:45:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#7 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#8 /var/www/cricket/protected/commands/UpdateEventsMetaDataCommand.php(7): Events::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEventsMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/17 09:43:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Questions))
+#7 /var/www/cricket/protected/models/Questions.php(28): CActiveRecord::model('Questions')
+#8 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(7): Questions::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateQuestionMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/17 10:11:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#7 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#8 /var/www/cricket/protected/commands/UpdateEntitiesStatusCommand.php(7): Events::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEntitiesStatusCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/17 10:11:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(BlockingData))
+#7 /var/www/cricket/protected/models/BlockingData.php(20): CActiveRecord::model('BlockingData')
+#8 /var/www/cricket/protected/commands/BlockUserCommand.php(10): BlockingData::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): BlockUserCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/18 16:19:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Questions))
+#7 /var/www/cricket/protected/models/Questions.php(28): CActiveRecord::model('Questions')
+#8 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(7): Questions::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateQuestionMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/18 16:19:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#7 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#8 /var/www/cricket/protected/commands/UpdateEntitiesStatusCommand.php(7): Events::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEntitiesStatusCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/18 17:35:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#7 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#8 /var/www/cricket/protected/commands/UpdateEntitiesStatusCommand.php(7): Events::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEntitiesStatusCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/18 17:35:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Options))
+#7 /var/www/cricket/protected/models/Options.php(23): CActiveRecord::model('Options')
+#8 /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php(7): Options::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateOptionsMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/18 19:26:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Questions))
+#7 /var/www/cricket/protected/models/Questions.php(28): CActiveRecord::model('Questions')
+#8 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(7): Questions::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateQuestionMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/19 20:28:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#7 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#8 /var/www/cricket/protected/commands/UpdateEventsMetaDataCommand.php(7): Events::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEventsMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/20 10:10:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#7 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#8 /var/www/cricket/protected/commands/UpdateEntitiesStatusCommand.php(7): Events::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEntitiesStatusCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/20 10:10:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Questions))
+#7 /var/www/cricket/protected/models/Questions.php(28): CActiveRecord::model('Questions')
+#8 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(7): Questions::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateQuestionMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/21 08:22:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Questions))
+#7 /var/www/cricket/protected/models/Questions.php(28): CActiveRecord::model('Questions')
+#8 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(7): Questions::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateQuestionMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/25 13:51:25 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: UPDATE `questions` SET `id`=:yp0, `title`=:yp1, `status`=:yp2, `total_pot`=:yp3, `total_bets`=:yp4, `pot_distributed`=:yp5, `maximum_bid_amount`=:yp6, `start_time`=:yp7, `end_time`=:yp8, `event_id`=:yp9, `correct_option`=:yp10 WHERE `questions`.`id`='176'.
+in /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php (19)
+in /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php (9)
+in /var/www/cricket/cron.php (13)
+2013/04/25 13:51:25 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: UPDATE `questions` SET `id`=:yp0, `title`=:yp1, `status`=:yp2, `total_pot`=:yp3, `total_bets`=:yp4, `pot_distributed`=:yp5, `maximum_bid_amount`=:yp6, `start_time`=:yp7, `end_time`=:yp8, `event_id`=:yp9, `correct_option`=:yp10 WHERE `questions`.`id`='176'' in /var/www/framework/db/CDbCommand.php:354
+Stack trace:
+#0 /var/www/framework/db/ar/CActiveRecord.php(1685): CDbCommand->execute()
+#1 /var/www/framework/db/ar/CActiveRecord.php(1064): CActiveRecord->updateByPk('176', Array)
+#2 /var/www/framework/db/ar/CActiveRecord.php(796): CActiveRecord->update(NULL)
+#3 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(19): CActiveRecord->save()
+#4 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(9): UpdateQuestionMetaDataCommand->updateQuestionMD('176')
+#5 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateQuestionMetaDataCommand->run(Array)
+#6 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#7 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#8 /var/www/cricket/cron.php(13): CApplication->run()
+#9 {main}
+---
+2013/04/25 13:51:25 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT SUM(bet_amount) FROM bets WHERE option_id = 174.
+in /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php (20)
+in /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php (9)
+in /var/www/cricket/cron.php (13)
+2013/04/25 13:51:25 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT SUM(bet_amount) FROM bets WHERE option_id = 174' in /var/www/framework/db/CDbCommand.php:528
+Stack trace:
+#0 /var/www/framework/db/CDbCommand.php(425): CDbCommand->queryInternal('fetchColumn', 0, Array)
+#1 /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php(20): CDbCommand->queryScalar()
+#2 /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php(9): UpdateOptionsMetaDataCommand->updateQuestionMetaData('174')
+#3 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateOptionsMetaDataCommand->run(Array)
+#4 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#5 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#6 /var/www/cricket/cron.php(13): CApplication->run()
+#7 {main}
+---
+2013/04/25 13:52:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (111)' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(BlockingData))
+#7 /var/www/cricket/protected/models/BlockingData.php(20): CActiveRecord::model('BlockingData')
+#8 /var/www/cricket/protected/commands/BlockUserCommand.php(10): BlockingData::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): BlockUserCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/25 13:52:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (111)' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#7 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#8 /var/www/cricket/protected/commands/UpdateEventsMetaDataCommand.php(7): Events::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEventsMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/25 13:52:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (111)' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Questions))
+#7 /var/www/cricket/protected/models/Questions.php(28): CActiveRecord::model('Questions')
+#8 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(7): Questions::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateQuestionMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/25 13:52:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (111)' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#7 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#8 /var/www/cricket/protected/commands/UpdateEntitiesStatusCommand.php(7): Events::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEntitiesStatusCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/25 13:52:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (111)' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Options))
+#7 /var/www/cricket/protected/models/Options.php(23): CActiveRecord::model('Options')
+#8 /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php(7): Options::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateOptionsMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/25 13:54:24 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[HY000]: General error: 2013 Lost connection to MySQL server during query. The SQL statement executed was: SELECT COUNT(*) FROM bets WHERE event_id = 45.
+in /var/www/cricket/protected/commands/UpdateEventsMetaDataCommand.php (16)
+in /var/www/cricket/protected/commands/UpdateEventsMetaDataCommand.php (9)
+in /var/www/cricket/cron.php (13)
+2013/04/25 13:54:24 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY000]: General error: 2013 Lost connection to MySQL server during query. The SQL statement executed was: SELECT COUNT(*) FROM bets WHERE event_id = 45' in /var/www/framework/db/CDbCommand.php:528
+Stack trace:
+#0 /var/www/framework/db/CDbCommand.php(425): CDbCommand->queryInternal('fetchColumn', 0, Array)
+#1 /var/www/cricket/protected/commands/UpdateEventsMetaDataCommand.php(16): CDbCommand->queryScalar()
+#2 /var/www/cricket/protected/commands/UpdateEventsMetaDataCommand.php(9): UpdateEventsMetaDataCommand->updateQuestionMetaData('45')
+#3 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEventsMetaDataCommand->run(Array)
+#4 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#5 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#6 /var/www/cricket/cron.php(13): CApplication->run()
+#7 {main}
+---
+2013/04/25 13:54:24 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[HY000]: General error: 2013 Lost connection to MySQL server during query. The SQL statement executed was: SELECT COUNT(*) FROM bets WHERE question_id = 1.
+in /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php (16)
+in /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php (9)
+in /var/www/cricket/cron.php (13)
+2013/04/25 13:54:24 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY000]: General error: 2013 Lost connection to MySQL server during query. The SQL statement executed was: SELECT COUNT(*) FROM bets WHERE question_id = 1' in /var/www/framework/db/CDbCommand.php:528
+Stack trace:
+#0 /var/www/framework/db/CDbCommand.php(425): CDbCommand->queryInternal('fetchColumn', 0, Array)
+#1 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(16): CDbCommand->queryScalar()
+#2 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(9): UpdateQuestionMetaDataCommand->updateQuestionMD('1')
+#3 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateQuestionMetaDataCommand->run(Array)
+#4 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#5 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#6 /var/www/cricket/cron.php(13): CApplication->run()
+#7 {main}
+---
+2013/04/25 13:54:25 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SHOW COLUMNS FROM `events`.
+in /var/www/cricket/protected/models/Events.php (28)
+in /var/www/cricket/protected/commands/UpdateEntitiesStatusCommand.php (7)
+in /var/www/cricket/cron.php (13)
+2013/04/25 13:54:25 [error] [exception.CDbException] exception 'CDbException' with message 'The table "events" for active record class "Events" cannot be found in the database.' in /var/www/framework/db/ar/CActiveRecord.php:2312
+Stack trace:
+#0 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#1 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#2 /var/www/cricket/protected/commands/UpdateEntitiesStatusCommand.php(7): Events::model()
+#3 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEntitiesStatusCommand->run(Array)
+#4 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#5 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#6 /var/www/cricket/cron.php(13): CApplication->run()
+#7 {main}
+---
+2013/04/25 13:54:24 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SHOW COLUMNS FROM `options`.
+in /var/www/cricket/protected/models/Options.php (23)
+in /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php (7)
+in /var/www/cricket/cron.php (13)
+2013/04/25 13:54:24 [error] [exception.CDbException] exception 'CDbException' with message 'The table "options" for active record class "Options" cannot be found in the database.' in /var/www/framework/db/ar/CActiveRecord.php:2312
+Stack trace:
+#0 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Options))
+#1 /var/www/cricket/protected/models/Options.php(23): CActiveRecord::model('Options')
+#2 /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php(7): Options::model()
+#3 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateOptionsMetaDataCommand->run(Array)
+#4 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#5 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#6 /var/www/cricket/cron.php(13): CApplication->run()
+#7 {main}
+---
+2013/04/25 13:56:06 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SHOW COLUMNS FROM `events`.
+in /var/www/cricket/protected/models/Events.php (28)
+in /var/www/cricket/protected/commands/UpdateEntitiesStatusCommand.php (7)
+in /var/www/cricket/cron.php (13)
+2013/04/25 13:56:06 [error] [exception.CDbException] exception 'CDbException' with message 'The table "events" for active record class "Events" cannot be found in the database.' in /var/www/framework/db/ar/CActiveRecord.php:2312
+Stack trace:
+#0 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#1 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#2 /var/www/cricket/protected/commands/UpdateEntitiesStatusCommand.php(7): Events::model()
+#3 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEntitiesStatusCommand->run(Array)
+#4 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#5 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#6 /var/www/cricket/cron.php(13): CApplication->run()
+#7 {main}
+---
+2013/04/25 13:56:06 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SHOW COLUMNS FROM `blocking_data`.
+in /var/www/cricket/protected/models/BlockingData.php (20)
+in /var/www/cricket/protected/commands/BlockUserCommand.php (10)
+in /var/www/cricket/cron.php (13)
+2013/04/25 13:56:06 [error] [exception.CDbException] exception 'CDbException' with message 'The table "blocking_data" for active record class "BlockingData" cannot be found in the database.' in /var/www/framework/db/ar/CActiveRecord.php:2312
+Stack trace:
+#0 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(BlockingData))
+#1 /var/www/cricket/protected/models/BlockingData.php(20): CActiveRecord::model('BlockingData')
+#2 /var/www/cricket/protected/commands/BlockUserCommand.php(10): BlockingData::model()
+#3 /var/www/framework/console/CConsoleCommandRunner.php(68): BlockUserCommand->run(Array)
+#4 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#5 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#6 /var/www/cricket/cron.php(13): CApplication->run()
+#7 {main}
+---
+2013/04/25 13:56:06 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SHOW COLUMNS FROM `events`.
+in /var/www/cricket/protected/models/Events.php (28)
+in /var/www/cricket/protected/commands/UpdateEventsMetaDataCommand.php (7)
+in /var/www/cricket/cron.php (13)
+2013/04/25 13:56:06 [error] [exception.CDbException] exception 'CDbException' with message 'The table "events" for active record class "Events" cannot be found in the database.' in /var/www/framework/db/ar/CActiveRecord.php:2312
+Stack trace:
+#0 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#1 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#2 /var/www/cricket/protected/commands/UpdateEventsMetaDataCommand.php(7): Events::model()
+#3 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEventsMetaDataCommand->run(Array)
+#4 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#5 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#6 /var/www/cricket/cron.php(13): CApplication->run()
+#7 {main}
+---
+2013/04/25 13:56:06 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SHOW COLUMNS FROM `questions`.
+in /var/www/cricket/protected/models/Questions.php (28)
+in /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php (7)
+in /var/www/cricket/cron.php (13)
+2013/04/25 13:56:06 [error] [exception.CDbException] exception 'CDbException' with message 'The table "questions" for active record class "Questions" cannot be found in the database.' in /var/www/framework/db/ar/CActiveRecord.php:2312
+Stack trace:
+#0 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Questions))
+#1 /var/www/cricket/protected/models/Questions.php(28): CActiveRecord::model('Questions')
+#2 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(7): Questions::model()
+#3 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateQuestionMetaDataCommand->run(Array)
+#4 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#5 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#6 /var/www/cricket/cron.php(13): CApplication->run()
+#7 {main}
+---
+2013/04/25 13:56:06 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SHOW COLUMNS FROM `options`.
+in /var/www/cricket/protected/models/Options.php (23)
+in /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php (7)
+in /var/www/cricket/cron.php (13)
+2013/04/25 13:56:06 [error] [exception.CDbException] exception 'CDbException' with message 'The table "options" for active record class "Options" cannot be found in the database.' in /var/www/framework/db/ar/CActiveRecord.php:2312
+Stack trace:
+#0 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Options))
+#1 /var/www/cricket/protected/models/Options.php(23): CActiveRecord::model('Options')
+#2 /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php(7): Options::model()
+#3 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateOptionsMetaDataCommand->run(Array)
+#4 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#5 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#6 /var/www/cricket/cron.php(13): CApplication->run()
+#7 {main}
+---
+2013/04/25 13:56:06 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT total_pot FROM questions WHERE id = 149.
+in /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php (16)
+in /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php (9)
+in /var/www/cricket/cron.php (13)
+2013/04/25 13:56:06 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT total_pot FROM questions WHERE id = 149' in /var/www/framework/db/CDbCommand.php:528
+Stack trace:
+#0 /var/www/framework/db/CDbCommand.php(425): CDbCommand->queryInternal('fetchColumn', 0, Array)
+#1 /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php(16): CDbCommand->queryScalar()
+#2 /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php(9): UpdateOptionsMetaDataCommand->updateQuestionMetaData('527')
+#3 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateOptionsMetaDataCommand->run(Array)
+#4 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#5 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#6 /var/www/cricket/cron.php(13): CApplication->run()
+#7 {main}
+---
+2013/04/25 13:59:13 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[HY000]: General error: 2013 Lost connection to MySQL server during query. The SQL statement executed was: SELECT COUNT(*) FROM bets WHERE question_id = 63.
+in /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php (16)
+in /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php (9)
+in /var/www/cricket/cron.php (13)
+2013/04/25 13:59:13 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY000]: General error: 2013 Lost connection to MySQL server during query. The SQL statement executed was: SELECT COUNT(*) FROM bets WHERE question_id = 63' in /var/www/framework/db/CDbCommand.php:528
+Stack trace:
+#0 /var/www/framework/db/CDbCommand.php(425): CDbCommand->queryInternal('fetchColumn', 0, Array)
+#1 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(16): CDbCommand->queryScalar()
+#2 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(9): UpdateQuestionMetaDataCommand->updateQuestionMD('63')
+#3 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateQuestionMetaDataCommand->run(Array)
+#4 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#5 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#6 /var/www/cricket/cron.php(13): CApplication->run()
+#7 {main}
+---
+2013/04/25 13:59:13 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[HY000]: General error: 2013 Lost connection to MySQL server during query. The SQL statement executed was: SELECT SUM(bet_amount) FROM bets WHERE option_id = 55.
+in /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php (20)
+in /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php (9)
+in /var/www/cricket/cron.php (13)
+2013/04/25 13:59:13 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY000]: General error: 2013 Lost connection to MySQL server during query. The SQL statement executed was: SELECT SUM(bet_amount) FROM bets WHERE option_id = 55' in /var/www/framework/db/CDbCommand.php:528
+Stack trace:
+#0 /var/www/framework/db/CDbCommand.php(425): CDbCommand->queryInternal('fetchColumn', 0, Array)
+#1 /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php(20): CDbCommand->queryScalar()
+#2 /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php(9): UpdateOptionsMetaDataCommand->updateQuestionMetaData('55')
+#3 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateOptionsMetaDataCommand->run(Array)
+#4 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#5 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#6 /var/www/cricket/cron.php(13): CApplication->run()
+#7 {main}
+---
+2013/04/25 13:59:13 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[HY000]: General error: 2013 Lost connection to MySQL server during query. The SQL statement executed was: SELECT SUM(bet_amount) FROM bets WHERE option_id = 481.
+in /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php (20)
+in /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php (9)
+in /var/www/cricket/cron.php (13)
+2013/04/25 13:59:13 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY000]: General error: 2013 Lost connection to MySQL server during query. The SQL statement executed was: SELECT SUM(bet_amount) FROM bets WHERE option_id = 481' in /var/www/framework/db/CDbCommand.php:528
+Stack trace:
+#0 /var/www/framework/db/CDbCommand.php(425): CDbCommand->queryInternal('fetchColumn', 0, Array)
+#1 /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php(20): CDbCommand->queryScalar()
+#2 /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php(9): UpdateOptionsMetaDataCommand->updateQuestionMetaData('481')
+#3 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateOptionsMetaDataCommand->run(Array)
+#4 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#5 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#6 /var/www/cricket/cron.php(13): CApplication->run()
+#7 {main}
+---
+2013/04/25 13:59:33 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (111)' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#7 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#8 /var/www/cricket/protected/commands/UpdateEntitiesStatusCommand.php(7): Events::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEntitiesStatusCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/25 13:59:32 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (111)' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Questions))
+#7 /var/www/cricket/protected/models/Questions.php(28): CActiveRecord::model('Questions')
+#8 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(7): Questions::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateQuestionMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/25 13:59:32 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (111)' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Options))
+#7 /var/www/cricket/protected/models/Options.php(23): CActiveRecord::model('Options')
+#8 /var/www/cricket/protected/commands/UpdateOptionsMetaDataCommand.php(7): Options::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateOptionsMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/25 13:59:33 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (111)' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#7 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#8 /var/www/cricket/protected/commands/UpdateEventsMetaDataCommand.php(7): Events::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEventsMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/25 13:59:32 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (111)' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(BlockingData))
+#7 /var/www/cricket/protected/models/BlockingData.php(20): CActiveRecord::model('BlockingData')
+#8 /var/www/cricket/protected/commands/BlockUserCommand.php(10): BlockingData::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): BlockUserCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/04/29 10:26:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#7 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#8 /var/www/cricket/protected/commands/UpdateEntitiesStatusCommand.php(7): Events::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEntitiesStatusCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/05/01 12:46:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Events))
+#7 /var/www/cricket/protected/models/Events.php(28): CActiveRecord::model('Events')
+#8 /var/www/cricket/protected/commands/UpdateEventsMetaDataCommand.php(7): Events::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateEventsMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---
+2013/05/03 15:25:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1135] Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug' in /var/www/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/framework/db/ar/CActiveRecord.php(624): CApplication->getDb()
+#5 /var/www/framework/db/ar/CActiveRecord.php(2311): CActiveRecord->getDbConnection()
+#6 /var/www/framework/db/ar/CActiveRecord.php(388): CActiveRecordMetaData->__construct(Object(Questions))
+#7 /var/www/cricket/protected/models/Questions.php(28): CActiveRecord::model('Questions')
+#8 /var/www/cricket/protected/commands/UpdateQuestionMetaDataCommand.php(7): Questions::model()
+#9 /var/www/framework/console/CConsoleCommandRunner.php(68): UpdateQuestionMetaDataCommand->run(Array)
+#10 /var/www/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#11 /var/www/framework/base/CApplication.php(162): CConsoleApplication->processRequest()
+#12 /var/www/cricket/cron.php(13): CApplication->run()
+#13 {main}
+---

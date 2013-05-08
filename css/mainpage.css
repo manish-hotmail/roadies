@@ -1,0 +1,23 @@
+#main_page_div1 {
+	position: relative;
+	font-family: Verdana;
+	width: 720px;
+	display: none;
+}
+
+#main_page_div {
+	position: relative;
+	font-family: Verdana;
+	width: 720px;
+}
+
+#intro_header {
+	position: relative;
+	font-size: 13px;
+	height: 50px;
+}
+
+#top_bet_div {
+	position: relative;
+	margin-top: 20px;
+}

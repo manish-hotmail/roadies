@@ -1,0 +1,191 @@
+body {
+
+}
+
+.header1 {
+	height: 170px;
+	background: url("../img/header.jpg");
+	margin-top: 2px;
+}
+.menu1 {
+	height: 33px;
+	border-bottom: 2px solid rgb(211, 200, 200);
+	/*background: blue;*/
+}
+.table_style {
+	width: 100%;
+	/*margin-bottom: 20px;*/
+	/*cellspacing:10;*/
+}
+
+.table_style td {
+	padding: 5px;
+	/*line-height: 40px;*/
+	text-align: left;
+	vertical-align: top;
+	/*border-top: 1px solid ;*/
+
+}
+.table_style tr {
+	padding: 15px;
+}
+td .first-row {
+	height: 170px;
+	border: 1px solid gray;
+}
+td .inner_row {
+	height: 200px;
+	border: 1px solid;
+}
+.inner-div1 {
+	float: left;
+	/*background: gray;*/
+	width: 44%;
+	height: 75%;
+	margin-left: 23px;
+	margin-top: 23px;
+}
+.inner-div2 {
+	float: right;
+	width: 238PX;
+	height: 130PX;
+	background: whitesmoke;
+	margin-right: 22px;
+	margin-top: 23px;
+}
+.dash {
+	border-bottom: 1px solid rgb(221, 217, 208);
+	margin-top: 25px;
+}
+.fr {
+	float: right;
+}
+.fl {
+	float: left;
+}
+.span-date {
+	font-size: 12px;
+	color: rgb(206, 39, 39);
+	margin-left: 0px;
+	font-weight: bold;
+}
+.header-s {
+	font-weight: bolder;
+	font-size: 22px;
+	float: right;
+	padding-right: 13px;
+	margin-top: 13px;
+}
+
+.header-s1 {
+	font-weight: bold;
+	font-size: 38px;
+	/*margin-left: 29px;*/
+	float: right;
+	padding-right: 13px;
+	margin-top: 16px;
+}
+.placebet-button {
+	margin-right: 15px;
+	margin-top: 17px;
+}
+.nav-t {
+	margin-top: 27px;
+	/*  margin-bottom: -16px;*/
+	font-weight: bold;
+	margin-left: 15px;
+}
+.row-border1 {
+	border-top: 1px solid rgb(221, 217, 208);
+	border-bottom: 1px solid rgb(221, 217, 208);
+}
+.td-br1 {
+	border-right: 1px solid rgb(221, 217, 208);
+}
+.row-border2 {
+	border-bottom: 1px solid rgb(221, 217, 208);
+}
+.td-br2 {
+	border-right: 1px solid rgb(221, 217, 208);
+}
+.current-event {
+	background: rgb(182, 40, 40);
+	font-weight: bold;
+	border-left: 5px solid gray;
+	color: white;
+	padding: 2px;
+}
+.current-event1 {
+	background: gray;
+	font-weight: bold;
+	border-left: 5px solid gray;
+	color: white;
+	padding: 2px;
+}
+.user-img {
+	height: 48px;
+	width: 48px;
+}
+
+.inner-row {
+	height: 200px;
+	background: red;
+	border: 1px solid black;
+	margin-top: 7px;
+}
+.header-s2 {
+	font-weight: bold;
+	font-size: 38px;
+	float: right;
+	padding-right: 13px;
+	margin-top: 20px;
+}
+.header-small1 {
+	float: right;
+	font-weight: bold;
+	padding-right: 5px;
+}
+.header-small2 {
+	float: left;
+	font-weight: bold;
+	padding-right: 5px;
+	margin-left: 9px;
+	font-size: 21px;
+}
+.p-text {
+	font-size: 12px;
+	text-decoration: underline;
+	width: 90%;
+}
+.p-text-noul{
+	font-size: 12px;
+}
+.p-text-r {
+	font-size: 12px;
+	color: red;
+	margin-top: -10px;
+}
+.p-text-rc {
+	font-size: 12px;
+	color: red;
+}
+.p-bets {
+	color: red;
+	margin-top: -13px;
+}
+.p-font-number{
+	font-size: 11px;
+}
+.font-b{
+	font-weight: bold;
+}
+#menu-bar{
+	list-style: none;
+	margin-top:20px;
+}
+
+#menu-bar li{
+	width: 23%;
+	float: left;
+}
+
